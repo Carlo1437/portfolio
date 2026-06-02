@@ -336,7 +336,7 @@ onMounted(() => {
               <div
                 class="absolute -bottom-6 -right-6 bg-gradient-to-br from-[var(--color-accent-1)] to-[var(--color-accent-2)] text-white p-6 rounded-2xl shadow-xl hidden md:block animate-bounce [animation-duration:3s]"
               >
-                <p class="text-3xl font-bold">1+</p>
+                <p class="text-3xl font-bold">2+</p>
                 <p class="text-sm font-medium opacity-90">Years Exp.</p>
               </div>
             </div>
